@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticeMakesPerfect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="Salam">Tza Raggaeton Tza</string>
+	<string name="orcs">Orcs</string>
+	<string name="humans">Humans</string>
+	<string name="elves">Elves</string>
+	<string name="undead">Undead</string>
+	<string name="red">Red</string>
+	<string name="blue">Blue</string>
+	<string name="green">Green</string>
+	<string name="black">Black</string>
+	<string name="choose_username">Choose Username</string>
+	
+</resources>

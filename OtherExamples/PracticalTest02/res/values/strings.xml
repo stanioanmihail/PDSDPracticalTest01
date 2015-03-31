@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_practical_test02_secondary">PracticalTest02SecondaryActivity</string>
+	<string name="Check1">Check1</string>
+	<string name="Check2">Check2</string>
+	<string name="Check3">Check3</string>
+	<string name="ButtonNav">NavToSecond</string>
+	<string name="ok">OK!</string>
+	<string name="cancel">Cancel</string>	
+</resources>

@@ -1,0 +1,32 @@
+1. LinearLayout has 
+	android:layout_width="match_parent"
+	android:layout_hight="wrap_content"
+	default orientation is orizontal
+
+2. Button
+	android:id="@+id/nume"
+	android:layout_gravity="top|right"
+
+3. Comment in xml <!-- comm -->
+
+4. GridLayout starts from (0,0)
+	android:row_count = 
+	android:column_count =
+
+5. Gravity
+	orientation = orizontal => width = 0dp
+	orientation = vertical => height = 0dp
+
+6. Gravity
+	android:layout_gravity => orientează obiectul față de părinte
+	android:gravity => setează conținutul obiectului față de obiect
+
+7. Listener
+	(button) Button.OnClickListener
+	(radio) CompoundButton.OnCheckedChangeListener
+	(editText) TextWatcher.OnTextChange
+
+8. OnDestroy este apelat la back sau la închidere proces 
+9. Activitatea principală este de tip LAUNCHER și ascunsă este de tip DEFAULT
+10. android:hint - EditTextHint
+11. android:visibility="true"
